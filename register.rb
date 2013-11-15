@@ -37,6 +37,3 @@ end
 
 x = Register.new
 x.get_the_price
-x.validate_input
-x.validate_amount
-check_input
